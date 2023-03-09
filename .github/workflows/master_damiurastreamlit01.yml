@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'damiuraStreamlit01'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C69D0AEF88F04321AE21ECF72E35F4C5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_881E9E6D220544039E2A88878978E36F }}
